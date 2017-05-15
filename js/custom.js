@@ -47,7 +47,7 @@ $(":checkbox").on('click', function(){
             }
         });
         if (aler_msg == '1') {
-            alert('You have to select four question.');
+            alert('please participate all question.');
             return false;
         }
 
