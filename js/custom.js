@@ -10,7 +10,6 @@ $(":checkbox").on('click', function(){
     }
 });
 
-
 // script for form validation
     $("form#quiz").submit(function (event) {
         event.preventDefault();
